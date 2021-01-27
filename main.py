@@ -35,6 +35,7 @@ Gia: {json['gia']}
 DDD: {json['ddd']}
 Siafi: {json['siafi']}
 
+      By: Iboy-Exploitado 
 	""")
 
 
